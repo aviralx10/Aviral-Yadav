@@ -10,11 +10,9 @@
 <a href="https://www.linkedin.com/in/aviral-yadav/"><img align="left" alt="LinkedIn - aviral-yadav" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <a href="https://twitter.com/not_zuck"><img align="left" alt="Twitter - not_zuck" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Aviral Yadav Github Stats" src="https://github-readme-stats.vercel.app/api?username=aviralx10&show_icons=true&theme=chartreuse-dark&count_private=true" />
 <img align="left" alt="Aviral Yadav Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralx10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats">
-
 </details>
 
