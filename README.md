@@ -3,6 +3,8 @@
 -  🌱 I’m currently learning and exploring myself in the fields of Machine Learning and Deep Learning. 
 -  ⚡ Fun fact: I love to solve algorithmic problems and talk about football.
 
+### Undergrad Student (COE) at Delhi Technological University.
+
 ### Connect with me:
 <!--
 <a href="myblog/protfolio website address"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
