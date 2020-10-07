@@ -3,7 +3,7 @@
 -  🌱 I’m currently learning and exploring myself in the fields of Machine Learning and Deep Learning. 
 -  ⚡ Fun fact: I love to solve algorithmic problems and talk about football.
 
-### I am an Undergrad Student (COE) at Delhi Technological University.
+### I am a Computer Science Undergrad Student at Delhi Technological University.
 
 ### Connect with me:
 <!--
