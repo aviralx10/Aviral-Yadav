@@ -1,9 +1,9 @@
-# HELLO THERE!!! 
+# Hello There!!! 
 -  👯 I’m looking to collaborate on SwiftUI and iOS Development.
 -  🌱 I’m currently learning and exploring myself in the fields of Machine Learning and Deep Learning. 
 -  ⚡ Fun fact: I love to solve algorithmic problems and talk about football.
 
-### Undergrad Student (COE) at Delhi Technological University.
+### I am an Undergrad Student (COE) at Delhi Technological University.
 
 ### Connect with me:
 <!--
